@@ -3,7 +3,7 @@
 This project consists of a resume template written in LaTeX and work experience
 written in YAML files. A coding agent is used to take job descriptions, parse
 the YAML files for relevant experience, and write them to `experience.tex`,
-which will be included by `resume.tex` to generate the final resume PDF.
+which is included by `resume.tex` to generate the final resume PDF.
 
 # Quick Start
 
@@ -28,7 +28,7 @@ which will be included by `resume.tex` to generate the final resume PDF.
 ```
 
 5. Paste a job description to have the agent craft an experience section. The
-   agent will create `experience.tex` which will be used to build the final
+   agent will create `experience.tex` which is used to build the final
    PDF.
 
 ```
