@@ -1,9 +1,13 @@
 # Quick Start
 
-1. Edit `resume.tex` and update the personal information in the first block at the top of the file. Edit the `\section{Education}` and `\section{Skills}` sections as desired.
+1. Add `resume.tex` and update the personal information in the first block at
+   the top of the file. Edit the `\section{Education}` and `\section{Skills}`
+   sections as desired.
 
-2. Add YAML files with detailed work experience in `data/work/`. Use the sample
-   `data/work/199601_umbrella.yml` as a template from which to build upon. These will be used by the agent to fill in the experience section of the resume.
+2. Create YAML files with detailed work experience in `data/work/`. Use the
+   sample `data/work/199601_umbrella.yml` as a template from which to build
+   upon. These will be used by the agent to fill in the experience section of
+   the resume.
 
 3. Install LaTeX to use `pdflatex`
 
