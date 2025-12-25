@@ -1,6 +1,6 @@
 # Quick Start
 
-1. Add `resume.tex` and update the personal information in the first block at
+1. Edit `resume.tex` and update the personal information in the first block at
    the top of the file. Edit the `\section{Education}` and `\section{Skills}`
    sections as desired.
 
