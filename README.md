@@ -1,3 +1,11 @@
+# Enigma
+
+This project consists of a resume template written in LaTeX and YAML files with
+user-defined work experience. A coding agent is used to take job descriptions,
+parse the YAML files for relevant experience, and write them to
+`experience.tex`, which will be included by `resume.tex` to generate the final
+resume PDF.
+
 # Quick Start
 
 1. Edit `resume.tex` and update the personal information in the first block at
