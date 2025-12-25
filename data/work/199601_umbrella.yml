@@ -1,0 +1,42 @@
+company: "Umbrella Corporation"
+role: "Scientist"
+location: "Raccoon City, CO"
+start: "1996-01"
+end: "1998-07"
+tech: [C, PowerShell, Azure]
+areas: [Virtualization, Operating System, Memory Management, Test Automation]
+accomplishments:
+  - id: nemesis
+    when: "1997-03"
+    headline: "Developed an improved human Bio-Organic Weapon (B.O.W.) using the T-virus and cybernetics"
+    summary: >
+      Designed and developed a new Bio-Organic Weapon (B.O.W.) as part of the Nemesis Project.
+      Using an advanced strain of the T-virus and cybernetic enhancements, the Nemesis demonstrated
+      improved tracking, strength, and intelligence compared to the Tyrant.
+    star:
+      situation: "The Tyrant had several deficiencies leading to it being neutralized by members of Special Tactics And Rescue Service (S.T.A.R.S.). A more capable bioweapon was needed."
+      task: "Develop a new version of the human bioweapon capable of engaging with Raccoon City Police Special Forces."
+      action: "Used a new strain of the T-virus on a former Ubremlla mercenary. Added cybernetic implants for monitoring and control."
+      result: "The Nemesis displayed improved speed and strength, regeneration, weapons proficiency, and intelligence. It successfully eliminated the entire S.T.A.R.S. Bravo Team with the exception of Jill Valentine. Several members of Umbrella Biohazard Countermeasure Service (U.B.C.S.) were also eliminated."
+    metrics:
+      stars_members_eliminated: 7
+      strength_increase_pct: 50
+      speed_increase_pct: 25
+    skills: [Phlebotomy, C]
+    tags: []
+
+  - id: plant42
+    when: "1998-06"
+    headline: "Plant 42"
+    summary: >
+      Led a research project investigating the effects of viral infection on plant growth and development, documenting significant changes in morphology and physiology. The resulting plant grew to the size of the entire room, and demonstrated unexpected levels of intelligence and predatory behavior, as it lured scientists into its reach via mimicry, trapped them with its vines, and aggressively digested them. The project demonstrated the effectiveness of plant based Bio-Organic Weapons as a means of containment when deployed within enclosed areas.
+    star:
+      situation: "The effects of the T-virus on plant organisms was not well understood."
+      task: "Infect a plant with the T-virus, document changes, and evaluate potential use cases."
+      action: "Applied 100ml to a unique species of carnivorous plant. Observe growth over 4 weeks."
+      result: "Plant 42 exhibited extreme growth, filling the entire guardhouse dormitory. Unexpected levels of intelligence and predatory behavior emerged, luring scientists into its reach and trapping them with its vines."
+    metrics:
+      size_increase_pct: 500
+    skills: [C++, Horticulture]
+    tags: [Windows, Debugging, Tooling]
+
